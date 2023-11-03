@@ -10,7 +10,7 @@ body {
 }
 
 .background-image {
-    background: url('pictures/background.jpg') center/cover no-repeat fixed;
+    background: url('pictures/background.webp') center/cover no-repeat fixed;
     position: fixed;
     top: 0;
     left: 0;
